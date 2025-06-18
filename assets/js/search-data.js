@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/xyz/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-mth-edu",
+        
+          title: "mth edu",
+        
+        description: "edu mth",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/xyz/blog/2025/mth/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
